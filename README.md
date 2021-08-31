@@ -1,3 +1,1 @@
-0xBooler
-
-Building cool shit on Solana 
+Building cool stuff on Solana 
